@@ -1,4 +1,4 @@
-# CSharpTrickyTopics
+# CSharp Tricky Topics
 
 This repository is dedicated to mastering the most **tricky**, **misunderstood**, or **low-level advanced** topics in C#.  
 It’s designed as a **code-based knowledge base** with working examples, explanations, and real output, all carefully structured.
